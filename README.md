@@ -1,4 +1,3 @@
-# bounteous-vue-2
 
 ## Project setup
 ```
