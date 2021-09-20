@@ -28,6 +28,12 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
+.c-rich-text__html {
 
+  h3 {
+    color: rgb(27, 20, 51);
+    text-transform: uppercase;
+  }
+}
 </style>

@@ -40,6 +40,10 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="scss">
+.c-title {
+  border-bottom: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+  margin: 0 2rem;
+}
 </style>

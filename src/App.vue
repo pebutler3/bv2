@@ -63,5 +63,6 @@ ul {
 
 .order-list {
   display: flex;
+  padding: 0;
 }
 </style>
